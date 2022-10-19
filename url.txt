@@ -1,0 +1,21 @@
+https://www.microfocus.com/media/unspecified/disaster_recovery_planning_template_revised.pdf
+
+
+How to create and effective disaster recovery plan
+
+	https://theiteam.ca/bdr/how-to-create-effective-disaster-recovery-plan/
+
+Example: Disaster recovery plan
+
+	https://www.ibm.com/docs/en/i/7.2?topic=system-example-disaster-recovery-plan
+	
+
+How To Plan for Your Server Migration
+
+	https://www.dynamicquest.com/planning-server-migration-migrate-right-way/
+	
+Section 11. Testing the disaster recovery plan
+
+	https://www.ibm.com/docs/en/i/7.3?topic=plan-section-11-testing-disaster-recovery
+	
+https://en.wikipedia.org/wiki/Disaster_recovery
